@@ -14,6 +14,6 @@ Just Needs to change the web drivers path.
 
 ### Running Tests
 This project uses [Maven](https://maven.apache.org/).
-To run tests, simply run "mvn clean test", or import the project at your favourite IDE.
+To run tests, simply run "mvn clean test", or import the project at your favourite IDE;
 
 
